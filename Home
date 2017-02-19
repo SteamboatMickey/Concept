@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Web Page</title>
+</head>
+<body>
+<p>This is my first web page for many years</p>
+<p>How exciting</p>
+<p> Yes, that really <em>is</em> exciting.
+<strong>Warning:</strong> level of excitement may cause head to explode </p>
+What do you think, Nadia?<br>
+<em>Pretty</em> cool <strong>RIGHT!?</strong>
+<h1> At Least </h1>
+<h2> I Still Have </h2>
+<h3> My Sense of Humor </h3>
+<h4> LOL </h4>
+<h5><em> So Why are we doing this? </em></h5>
+<ul>
+<li> To learn HTML </li>
+<li> To show off</li>
+<ol>
+<li>To my boss</li>
+<li>To my friends</li>
+<li>To my future self </li> </ol>
+<li> Because I've fallen in love with my computer and I want to give her some HTML loving </li>
+</ul>
+<H2>So where is the tutorial?</h2>
+<p><a href="http://www.htmldog.com">HTML Dog</a></p>
+
+</body>
+</html>
